@@ -1,0 +1,14 @@
+/Users/sergejbas/RiderProjects/qbit1/Task16/bin/Debug/net7.0/Task16
+/Users/sergejbas/RiderProjects/qbit1/Task16/bin/Debug/net7.0/Task16.deps.json
+/Users/sergejbas/RiderProjects/qbit1/Task16/bin/Debug/net7.0/Task16.runtimeconfig.json
+/Users/sergejbas/RiderProjects/qbit1/Task16/bin/Debug/net7.0/Task16.dll
+/Users/sergejbas/RiderProjects/qbit1/Task16/bin/Debug/net7.0/Task16.pdb
+/Users/sergejbas/RiderProjects/qbit1/Task16/obj/Debug/net7.0/Task16.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergejbas/RiderProjects/qbit1/Task16/obj/Debug/net7.0/Task16.AssemblyInfoInputs.cache
+/Users/sergejbas/RiderProjects/qbit1/Task16/obj/Debug/net7.0/Task16.AssemblyInfo.cs
+/Users/sergejbas/RiderProjects/qbit1/Task16/obj/Debug/net7.0/Task16.csproj.CoreCompileInputs.cache
+/Users/sergejbas/RiderProjects/qbit1/Task16/obj/Debug/net7.0/Task16.dll
+/Users/sergejbas/RiderProjects/qbit1/Task16/obj/Debug/net7.0/refint/Task16.dll
+/Users/sergejbas/RiderProjects/qbit1/Task16/obj/Debug/net7.0/Task16.pdb
+/Users/sergejbas/RiderProjects/qbit1/Task16/obj/Debug/net7.0/Task16.genruntimeconfig.cache
+/Users/sergejbas/RiderProjects/qbit1/Task16/obj/Debug/net7.0/ref/Task16.dll
